@@ -3,7 +3,8 @@
 #include<stdio.h>
 
 void main (void){
-	int b
+	int b;
+	b=1
 	int width;
 	width = 5;
 	
