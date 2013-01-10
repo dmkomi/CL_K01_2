@@ -3,7 +3,7 @@
 #include<stdio.h>
 
 void main (void){
-	
+	int b
 	int width;
 	width = 5;
 	
